@@ -1,10 +1,10 @@
-import { useState } from 'react'
-
+import NK from "./BasicComp"
 function App() {
     return (
-        <h1>
-            Hello World || Nishant Karena
-        </h1>
+        <>
+            <NK/>
+            <h1>Hello World || Nishant Karena</h1>
+        </>
     )
 }
 
