@@ -1,0 +1,16 @@
+#mainDiv{
+    width: 100%;
+    text-align: center;
+    margin-top: 20vh;
+}
+button{
+    padding: 0 25px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+#add{
+    margin-right: 10px;
+}
+#sub{
+    margin-left: 10px;
+}
